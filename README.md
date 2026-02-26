@@ -1,12 +1,12 @@
 # Task Manager App
 
-## 📌 Project Overview
+##  Project Overview
 
 The Task Manager App is a simple web application that allows users to create, read, update, and delete tasks. Each task can be assigned a priority level (High, Medium, Low). The application uses localStorage to persist data and is designed to be responsive for both desktop and mobile devices.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create new tasks
 - View all tasks
@@ -18,7 +18,7 @@ The Task Manager App is a simple web application that allows users to create, re
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -27,7 +27,7 @@ The Task Manager App is a simple web application that allows users to create, re
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 task-manager/
 │
@@ -40,7 +40,7 @@ task-manager/
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
    git clone https://github.com/likhithanjali-japa/task-manager.git
@@ -60,13 +60,13 @@ All tasks are stored in the browser's localStorage. Tasks remain saved even afte
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application uses Flexbox and media queries to ensure proper layout and usability across different screen sizes.
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Add task completion status
 - Add due dates
@@ -75,6 +75,6 @@ The application uses Flexbox and media queries to ensure proper layout and usabi
 
 ---
 
-## 👤 Author
+## Author
 
 Likhithanjali Japa
