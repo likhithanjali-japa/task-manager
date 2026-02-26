@@ -54,7 +54,7 @@ No additional installations or dependencies are required.
 
 ---
 
-## 💾 Data Persistence
+## Data Persistence
 
 All tasks are stored in the browser's localStorage. Tasks remain saved even after refreshing or reopening the page.
 
